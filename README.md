@@ -4,16 +4,17 @@
 - 👀 I’m interested in back-end development
 - 🌱 I’m currently cursing software engineering
 - 📫 reach me on my e-mail or my linkedin
-
+<br>
 <div>
   <a href="https://github.com/eduardodsxavier">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardodsxavier&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+<br>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,c,java,py)](https://skillicons.dev)\
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,flask)](https://skillicons.dev)\
 [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)\
-[![My Skills](https://skillicons.dev/icons?i=git,github,linux,arch)](https://skillicons.dev)\
+[![My Skills](https://skillicons.dev/icons?i=git,github,linux,arch)](https://skillicons.dev)
 
 
 
