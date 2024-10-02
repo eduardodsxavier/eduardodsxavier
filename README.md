@@ -3,6 +3,7 @@
 - 👋 Hi, I’m @eduardodsxavier
 - 👀 I’m interested in back-end development
 - 🌱 I’m currently cursing software engineering
+- 📚 Studying SQL databases with cs50 SQL
 - 📫 reach me on my e-mail or my linkedin
 <br>
 <div>
