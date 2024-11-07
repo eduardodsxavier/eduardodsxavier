@@ -9,14 +9,16 @@
 <div>
   <a href="https://github.com/eduardodsxavier">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardodsxavier&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardodsxavier&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,java,py)](https://skillicons.dev)\
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,flask)](https://skillicons.dev)\
-[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)\
-[![My Skills](https://skillicons.dev/icons?i=git,github,linux,arch)](https://skillicons.dev)
 
+<div>
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=eduardodsxavier&theme=tokyonight)](https://git.io/streak-stats)
+  
+</div>
 
 
     
