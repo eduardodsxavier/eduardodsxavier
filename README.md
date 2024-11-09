@@ -14,13 +14,6 @@
 <br>
 
 
-<div>
-  
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=eduardodsxavier&theme=tokyonight)](https://git.io/streak-stats)
-  
-</div>
-
-
     
 <!---
 eduardodsxavier/eduardodsxavier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
