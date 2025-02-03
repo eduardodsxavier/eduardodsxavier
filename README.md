@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @eduardodsxavier
 - 👀 I’m interested in back-end development
 - 🌱 I’m currently cursing software engineering
-- 📚 Currently studying spring-boot
+- 📚 Currently studying rust
 - 📫 reach me on my e-mail or my linkedin
 <br>
 <div>
